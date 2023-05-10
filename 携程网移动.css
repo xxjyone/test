@@ -43,7 +43,7 @@ body{
     left: 5px;
     width: 15px;
     height: 15px;
-    background: url(../R-C.gif) no-repeat center 100%;
+    background: url(./R-C.gif) no-repeat center 100%;
     background-size: 40px auto;
 }
 .user{
@@ -59,7 +59,7 @@ body{
     display: block;
     width: 23px;
     height: 23px;
-    background: url(../R-C.gif) no-repeat center 100%;
+    background: url(./R-C.gif) no-repeat center 100%;
     background-size: 25px auto;
     margin: 5px auto 0;
 }
@@ -99,7 +99,7 @@ body{
     width: 32px;
     height: 32px;
     margin-top: 8px;
-    background: url(../R-C.gif) no-repeat center 100%;
+    background: url(./R-C.gif) no-repeat center 100%;
     background-size: 50px auto;
 }
 
@@ -138,7 +138,7 @@ nav{
 }
 .nav-items:nth-child(1) a{
     border: 0;
-    background: url(../R-C.gif) no-repeat center 100%;
+    background: url(./R-C.gif) no-repeat center 100%;
     background-size: 50px auto;
 }
 .nav-common:nth-child(1){
@@ -172,6 +172,6 @@ nav{
     height: 28px;
     background-color: red;
     margin-top: 4px;
-    background: url(../202205302272172.gif) no-repeat center 100%;
+    background: url(./202205302272172.gif) no-repeat center 100%;
     background-size: 28px auto;
 }
